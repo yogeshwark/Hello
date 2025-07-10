@@ -4,7 +4,5 @@ Welcome back to the development
 * Restart Development activities
 * Hands on in real world, the capability of Copilot
 and many more to come...
-
-`console.log("back to code")`
-
-Git | Github | Demo Website | Copilot 
+---
+> Git| Github | Demo Website | Copilot 
